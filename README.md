@@ -1,5 +1,5 @@
 <h3>Hi there👋🏿,</h3>
-<p><align="center">I’m Akinniyi Akinwande</align="center">
+<p><b>I’m Akinniyi Akinwande</align="center">
     <br>
 
 
