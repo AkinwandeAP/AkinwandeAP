@@ -1,4 +1,6 @@
 <h3>Hi there👋🏿,</h3>
+<p></align="center">
+    <br>
 <h1>I’m Akinniyi Akinwande</h1>
 
 <!--
