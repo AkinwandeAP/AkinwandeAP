@@ -1,5 +1,5 @@
 <h4>Hi there👋🏿,</h4>
-<h2><b><align = "center">I’m Akinniyi Akinwande
+<h2><b><color = "blue">I’m Akinniyi Akinwande
 
 <!--
 **AkinwandeAP/AkinwandeAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
