@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkinwandeAP
+- <h1>👋 Hi, I’m @AkinwandeAP<h1>
 - 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning data analysis with phyton 
 - 💞️ I’m looking to collaborate on interactive dashboard creation and data visualization 
