@@ -1,4 +1,4 @@
-<h3>Hi there👋,</h3>
+<h3>Hi there👋🏿,</h3>
 <h1>I’m Akinniyi Akinwande</h1>
 
 <!--
