@@ -12,7 +12,7 @@ I'm **Akinniyi Akinwande**, a Yoruba Data Scientist with a passion for education
 
 💼 I'm enthusiastic about collaborating on projects related to data analysis, education, and community development.
 
-📫 Let's connect! You can reach me at [akinwandeakinniyi7@gmail.com](mailto:akinwandeakinniyi7@gmail.com) or find me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/akinniyi-akinwande-02a6121b9/?originalSubdomain=ng)) for professional inquiries.
+📫 Let's connect! You can reach me at [akinwandeakinniyi7@gmail.com](mailto:akinwandeakinniyi7@gmail.com) or find me on [LinkedIn]((https://www.linkedin.com/in/akinniyi-akinwande-02a6121b9/?originalSubdomain=ng)) for professional inquiries.
 
 ⚡ Fun fact: I believe in the power of data to drive positive change and am always excited to learn something new!
 
