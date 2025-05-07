@@ -1,8 +1,8 @@
 # Hello there! 👋🏿
 
-I'm **Akinniyi Akinwande**, a Yoruba Data Scientist with a passion for education, community, climate, and agriculture. I specialize in utilizing data to tell meaningful stories and solve real-world problems.
+I'm **Akinniyi Akinwande**, a Data Scientist with a passion for education, community, climate, and agriculture. I specialize in utilizing data to tell meaningful stories and solve real-world problems.
 
-🔬 **Expertise**: Python, Tableau, Google Cloud
+🔬 **Expertise**: Python, R, Tableau, Google Cloud
 
 🌍 **Interests**: Education, Community, Climate, Agriculture
 
